@@ -134,4 +134,5 @@ def responder_padrao(mensagem):
 
 
 print("Bot em execução...")
+bot.remove_webhook()
 bot.polling()
