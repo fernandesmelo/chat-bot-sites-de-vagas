@@ -56,7 +56,7 @@ sites_por_tipo = {
         "LinkedIn": "https://br.linkedin.com/",
         "Vagas.com": "https://www.vagas.com.br/",
         "Gupy": "https://portal.gupy.io/",
-        "abler": "https://abler.com.br/",
+        "Abler": "https://abler.com.br/",
         "99jobs": "https://99jobs.com/",
         "Yellow.rec": "https://www.yellow.rec.br/",
         "Hays": "https://www.hays.com.br/",
