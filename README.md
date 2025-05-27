@@ -1,5 +1,8 @@
 # VagaFácilBot 
-O VagaFácilBot, é um chat bot para encontrar sites de vagas de emprego, estágio e trabalho remoto.
+
+![ChatGPT Image 27 de mai  de 2025, 09_51_46](https://github.com/user-attachments/assets/7a7500e4-0196-420e-b7ec-b66b7d107bbb)
+
+O VagaFácilBot, é um chatbot para encontrar sites de vagas de emprego, estágio e trabalho remoto.
 
 https://github.com/user-attachments/assets/4e3867bb-cc89-4aa7-9901-f67c5c9f2336
 
