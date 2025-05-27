@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-CHAVE_API = "7951513268:AAGvzmxfbe5vtmaSVuDJ4idPwWzDeGwuiEo" 
+CHAVE_API = "7862428765:AAHAjA-_syjY32ClzaqHCKMnO8v3YiReX1U" 
 
 bot = telebot.TeleBot(CHAVE_API, parse_mode="Markdown")
 
