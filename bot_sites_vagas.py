@@ -49,7 +49,7 @@ sites_por_tipo = {
         "Remote.io": "https://www.remote.io/",
         "Working Nomads": "https://www.workingnomads.com/jobs",
         "Pangian": "https://pangian.com/remote/",
-        "simplyHired": "https://www.simplyhired.com.br/",
+        "SimplyHired": "https://www.simplyhired.com.br/",
     },
     "geral": {
         "Glassdoor": "https://www.glassdoor.com.br/index.htm",
