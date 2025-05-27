@@ -68,7 +68,10 @@ sites_por_tipo = {
 }
 
 def enviar_menu_tipo_site(chat_id, message_id=None):
-    texto = "Qual tipo de site você deseja acessar?\nEscolha uma opção:"
+    texto = (
+        "Olá! Eu sou o VagaFácilBot, seu assistente para encontrar sites de vagas de emprego, estágio e trabalho remoto.\n\n"
+        "Qual tipo de site você deseja acessar?\nEscolha uma opção:"
+    )
     markup = types.InlineKeyboardMarkup(row_width=1)
     btn_estagio = types.InlineKeyboardButton("Estágio", callback_data="tipo_estagio")
     btn_remoto = types.InlineKeyboardButton("Remoto", callback_data="tipo_remoto")
